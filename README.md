@@ -4,7 +4,7 @@ This repository contains a Sales Navigator Dashboard, designed for tracking and 
 🚀 Features:
 Key Metrics Overview: Sales, Profit, Quantity, and Average Delivery Time.
 Monthly Sales & Profit Analysis: Year-over-Year (YoY) comparison.
-*Sales Breakdown:*
+=>Sales Breakdown:
 -By Segment (Consumer, Corporate, Home Office).
 -By Payment Mode (Cards, COD, Online).
 -By Category & Sub-Category (Office Supplies, Technology, Furniture, etc.).
